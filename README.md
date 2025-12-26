@@ -1,71 +1,38 @@
-# DriverPass – System Design Project
+# DriverPass System Design Project
 
-## Overview
-DriverPass is a system design project based on a real-world client scenario for a web-based driver training platform. The system was designed to modernize manual, paper-based processes by providing online practice tests, lesson scheduling, and administrative tools for instructors and staff.
+This repository contains a system analysis and design project based on a simulated real-world client scenario.
 
-This repository focuses on requirements analysis and system architecture rather than full application implementation.
+The goal of the project was to analyze business requirements and design a scalable, user-focused system before implementation.
 
----
+## Project Overview
+DriverPass is a conceptual web-based system designed to support students preparing for driving exams. The system includes features such as online practice tests, lesson scheduling, and administrative tools for instructors and staff.
 
-## Problem Statement
-The client required a centralized system to:
-- Allow students to take online practice tests
-- Schedule and manage driving lessons
-- Provide instructors and administrators with visibility into schedules, users, and data
+This project focuses on design and documentation rather than full application development.
 
-Existing workflows relied on manual scheduling and paper records, leading to inefficiencies, errors, and poor user experience.
+## Key Concepts and Skills
+- Requirements analysis and documentation
+- UML modeling, including:
+  - Use case diagrams
+  - Sequence diagrams
+  - Class diagrams
+- System design and architectural planning
+- Translating client needs into technical solutions
 
----
+## Design Approach
+The design process involved:
+- Identifying user roles and system interactions
+- Defining functional and nonfunctional requirements
+- Modeling system behavior using UML diagrams
+- Evaluating scalability, usability, and maintainability considerations
 
-## Solution Design
-I designed a scalable, object-oriented system that supports multiple user roles and core business functions.
+## What I Learned
+- How to break down client needs into system requirements
+- How to visually model system behavior and structure
+- How early design decisions impact long-term system quality
 
-The system supports:
-- Student access to practice tests and lesson scheduling
-- Instructor tools for managing availability and lessons
-- Administrative oversight and system management
+## Tools and Techniques
+- UML
+- System analysis and design principles
+- Technical documentation
 
----
-
-## Technologies and Concepts
-- UML Diagrams (Use Case, Class, Sequence)
-- Object-Oriented Design Principles
-- Requirements Engineering
-- System Architecture Design
-- Software Development Lifecycle (SDLC)
-
----
-
-## What I Worked On
-- Translated client requirements into functional and non-functional specifications.
-- Created UML diagrams to model system behavior, user interactions, and data relationships.
-- Defined core entities such as users, lessons, schedules, and services.
-- Designed a layered architecture to separate concerns and support future scalability.
-- Considered usability, maintainability, and security implications during design.
-
----
-
-## Key Design Decisions
-- Modeled clear user roles (student, instructor, administrator) to reduce complexity and improve access control.
-- Designed modular components to allow future feature expansion without major redesign.
-- Used UML diagrams to validate system behavior before implementation.
-- Addressed real-world constraints such as scheduling conflicts and role-based access.
-
----
-
-## Reflection and Improvements
-If revisited, I would expand early requirement gathering by developing more detailed user personas and introducing UI prototypes earlier. Earlier validation through wireframes or mockups would improve usability and stakeholder feedback before development.
-
----
-
-## Why This Project Matters
-This project demonstrates my ability to:
-- Analyze ambiguous client requirements
-- Design structured, maintainable software systems
-- Think at the architectural level, not just code
-- Apply real-world software engineering practices
-
----
-
-## Related Skills
-System Design, UML, Backend Architecture, Requirements Analysis, Software Engineering Fundamentals
+This project demonstrates my ability to think through software design challenges and communicate solutions clearly before implementation.
