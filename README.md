@@ -2,33 +2,33 @@
 
 This repository contains a system analysis and design project based on a simulated real-world client scenario.
 
-The goal of the project was to analyze business requirements and design a scalable, user-focused system before implementation.
+The focus of this project was to analyze business requirements and design a scalable, user-focused system before implementation.
 
 ## Project Overview
-DriverPass is a conceptual web-based system designed to support students preparing for driving exams. The system includes features such as online practice tests, lesson scheduling, and administrative tools for instructors and staff.
+DriverPass is a conceptual web-based system designed to help students prepare for driving exams. The system supports online practice tests, scheduling for driving lessons, and administrative tools for instructors and staff.
 
-This project focuses on design and documentation rather than full application development.
+This project emphasizes system design, documentation, and planning rather than full application development.
 
 ## Key Concepts and Skills
 - Requirements analysis and documentation
-- UML modeling, including:
+- UML modeling:
   - Use case diagrams
   - Sequence diagrams
   - Class diagrams
-- System design and architectural planning
+- System and software design planning
 - Translating client needs into technical solutions
 
 ## Design Approach
-The design process involved:
+The design process included:
 - Identifying user roles and system interactions
 - Defining functional and nonfunctional requirements
 - Modeling system behavior using UML diagrams
-- Evaluating scalability, usability, and maintainability considerations
+- Considering scalability, usability, and maintainability
 
 ## What I Learned
-- How to break down client needs into system requirements
-- How to visually model system behavior and structure
-- How early design decisions impact long-term system quality
+- How to convert client requirements into structured system designs
+- How to model system behavior and architecture visually
+- How early design decisions influence long-term software quality
 
 ## Tools and Techniques
 - UML
